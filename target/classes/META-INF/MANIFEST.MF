@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Built-By: nada
+Class-Path: formscanner-commons-1.1.3-SNAPSHOT.jar super-csv-2.1.0.jar
+  watchmaker-swing-0.7.1.jar watchmaker-framework-0.7.1.jar google-col
+ lections-1.0.jar uncommons-maths-1.2.jar jfreechart-1.0.13.jar jcommo
+ n-1.0.16.jar log4j-api-2.3.jar log4j-core-2.3.jar formscanner-api-1.1
+ .4.jar core-3.2.0.jar javase-3.2.0.jar commons-io-1.3.2.jar commons-c
+ odec-1.11.jar commons-lang3-3.7.jar
+Build-Jdk: 1.8.0_31
+Created-By: Maven Integration for Eclipse
+Main-Class: com.albertoborsetta.formscanner.main.FormScanner
+
